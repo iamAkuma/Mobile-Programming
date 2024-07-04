@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Saral Assignment</string>
+    <string-array name="countries_array">
+        <item>Nepal</item>
+        <item>Japan</item>
+        <item>UK</item>
+        <item>USA</item>
+    </string-array>
+</resources>
